@@ -24,6 +24,7 @@
                         color: black;
                         border-style: none;
                         cursor: none;
+                        caret-color: transparent;
                     }
                     
                     .btn:hover {
